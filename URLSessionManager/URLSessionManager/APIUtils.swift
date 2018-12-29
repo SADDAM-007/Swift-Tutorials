@@ -10,7 +10,7 @@ import Foundation
 
 enum URLEndPoints :String{
     case users = "users"
-    case post = "posts"
+    case posts = "posts"
 }
 
 struct ServerURL {
@@ -22,7 +22,7 @@ struct ServerURL {
         switch serviceName{
         case.users:
             return baseURL + serviceName.rawValue
-        case.post:
+        case.posts:
             return baseURL + serviceName.rawValue
         }
     }

@@ -14,6 +14,8 @@
 		7042E1BF21D7450300048351 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7042E1BD21D7450300048351 /* LaunchScreen.storyboard */; };
 		7042E1C721D7455000048351 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7042E1C621D7455000048351 /* APIManager.swift */; };
 		7042E1C921D7466800048351 /* APIUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7042E1C821D7466800048351 /* APIUtils.swift */; };
+		7042E1CB21D796D100048351 /* demo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7042E1CA21D796D100048351 /* demo2.jpg */; };
+		7042E1CD21D796D800048351 /* demo1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7042E1CC21D796D800048351 /* demo1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		7042E1C021D7450300048351 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7042E1C621D7455000048351 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		7042E1C821D7466800048351 /* APIUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIUtils.swift; sourceTree = "<group>"; };
+		7042E1CA21D796D100048351 /* demo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = demo2.jpg; sourceTree = "<group>"; };
+		7042E1CC21D796D800048351 /* demo1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = demo1.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				7042E1B621D7450000048351 /* ViewController.swift */,
 				7042E1C621D7455000048351 /* APIManager.swift */,
 				7042E1C821D7466800048351 /* APIUtils.swift */,
+				7042E1CC21D796D800048351 /* demo1.jpeg */,
+				7042E1CA21D796D100048351 /* demo2.jpg */,
 				7042E1B821D7450000048351 /* Main.storyboard */,
 				7042E1BB21D7450300048351 /* Assets.xcassets */,
 				7042E1BD21D7450300048351 /* LaunchScreen.storyboard */,
@@ -131,6 +137,8 @@
 				7042E1BF21D7450300048351 /* LaunchScreen.storyboard in Resources */,
 				7042E1BC21D7450300048351 /* Assets.xcassets in Resources */,
 				7042E1BA21D7450000048351 /* Main.storyboard in Resources */,
+				7042E1CD21D796D800048351 /* demo1.jpeg in Resources */,
+				7042E1CB21D796D100048351 /* demo2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
